@@ -1,0 +1,23 @@
+.jumbotron {
+	margin-top: 300px;
+	border: 2px solid black;
+}
+
+.lead {
+	text-align: center;
+	font-size: 3em;
+}
+
+.mlogo {
+	width: 200px;
+	height: 200px;
+	transition: all 1s;
+}
+
+.mlogo:hover {
+	transform: scale(1.1);
+}
+
+.btn-primary {
+	background-color: #1FB6FF;
+}
